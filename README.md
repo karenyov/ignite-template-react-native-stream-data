@@ -23,5 +23,5 @@ Criar um arquivo .env (usando o template do .env.example) e adicionar as configu
 
 # Screenshots
 <p align="center">
-  <img src="https://github.com/karenyov/ignite-template-react-native-stream-data/blob/main/app.gif" width="300">
+  <img src="https://github.com/karenyov/ignite-template-react-native-stream-data/blob/master/app.gif" width="300">
 </p>
