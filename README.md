@@ -17,6 +17,11 @@ npm install
 expo start
 ```
 
+```
+
+# Configuração
+Criar um arquivo .env (usando o template do .env.example) e adicionar as configurações
+
 # Screenshots
 <p align="center">
   <img src="https://github.com/karenyov/ignite-template-react-native-stream-data/blob/main/app.gif" width="300">
