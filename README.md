@@ -17,8 +17,6 @@ npm install
 expo start
 ```
 
-```
-
 # Configuração
 Criar um arquivo .env (usando o template do .env.example) e adicionar as configurações
 
